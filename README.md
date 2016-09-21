@@ -1,6 +1,6 @@
 # srs-win32
 Simple-Rtmp-Server 的windows编译版  
-基于cygwin的st-1.9  
+基于cygwin的st-1.9,已默认设置最大打开文件数1024  
 用于在windows平台快速部署本地开发测试环境的另一个选择，双击运行run.bat即可  
 
 另外一个比较成熟的windows平台测试环境是由本人提交补丁并首先成功移植到windows平台的https://github.com/illuspas/nginx-rtmp-win32  
