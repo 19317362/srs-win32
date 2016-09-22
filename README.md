@@ -1,5 +1,5 @@
 # srs-win32
-Simple-Rtmp-Server 的windows编译版  
+[Simple-Rtmp-Server](https://github.com/ossrs/srs) 的windows编译版  
 基于cygwin的st-1.9,已默认设置最大打开文件数1024  
 用于在windows平台快速部署本地开发测试环境的另一个选择，双击运行run.bat即可  
 
